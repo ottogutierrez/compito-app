@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Compito - Organize your life`,
+    description: `Achieve an organized life and be on top of things with Compito, the new task manager for people like you`,
+    author: `Otto Gutierrez`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
